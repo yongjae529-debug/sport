@@ -1,0 +1,6 @@
+{
+  "name": "Health Tracker & Activity Dashboard",
+  "description": "다양한 수면 분석, 활동 추적, 맞춤형 건강 인사이트를 제공하는 고성능 헬스케어 다차원 대시보드 프로토타입",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
